@@ -17,7 +17,7 @@
 
 1. Клонируйте или скачайте проект:
    ```bash
-   git clone <URL_репозитория>
+   git clone https://github.com/MihailAm/library.git
 2. Перейдите в каталог с проектом:
     ```bash
     cd <папка_с_проектом>
